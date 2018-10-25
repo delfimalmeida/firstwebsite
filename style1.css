@@ -1,0 +1,18 @@
+/* {
+	Property: value;
+
+}*/
+body {
+	background-image: url(background.jpg);
+	background-size: cover;
+}
+h1 {
+	color: #297E00;
+	border: 4px solid #7D6600;
+}
+<style type="text/css">
+a:link {font-family:Georgia,serif;font-size: 300%;color:black;}
+a:visited {font-family:Georgia,serif;font-size: 300%;color:black;}
+a:hover {font-family:Georgia,serif;font-size: 300%;color:black;}
+a:active {font-family:Georgia,serif;font-size: 300%;color:black;}
+</style>
